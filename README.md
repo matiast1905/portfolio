@@ -10,6 +10,8 @@ The dataset target column is divided into 3 categories: 'Graduate', 'Enrolled' a
 
 The result of this project is a Gradio app hosted in [Hugging Face Spaces](https://huggingface.co/spaces) and you can find it in [this link](https://huggingface.co/spaces/matiast1905/student_dropout_analysis)
 
+![students_app](https://github.com/matiast1905/student_dropout_analysis/blob/main/images/gradio_interface.PNG)
+
 ## [Steel Strength Calculator](https://github.com/matiast1905/steel_strength_calculator)
 
 In this project I try to predict the 
@@ -17,7 +19,7 @@ In this project I try to predict the
 
 I create a **streamlit app** that allow the user to enter the composition of the steel, and gives the curves of the **tensile strength (in MPa)** and **yield strength (in MPa)** vs the *temperature (in °C)*
 
-![streamlit_app_pic](images/streamlit_app.PNG)
+![streamlit_app_pic](https://github.com/matiast1905/steel_strength_calculator/blob/main/images/streamlit_app.PNG)
 
 The app is deployed in the streamlit server and could be accessed in [this link](https://steelstrengthcalculator-kwzjyiwygdzuqugzg87wod.streamlit.app/)
 
